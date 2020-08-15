@@ -70,15 +70,13 @@ This should open another window where you will get a list of sorts. Now, remembe
 
  Now, to add the Python Folder to PATH, click on **NEW**. Now paste the string that we copied.
 
-**Now click on NEW again but this time, add this part to the end of the python Path: Scripts\**
+**Now click on NEW again but this time, add this part to the end of the python Path: `Scripts\`**
 
 Once that is done, it should look like this:
 
----
 
 ![Final Path](images/img_7.png)
 
----
 
 Click on OK on all three windows. 
 
